@@ -1,0 +1,9 @@
+For consideration/TODO
+======================
+http://www.cruisersforum.com/forums/f134/what-are-the-objects-which-display-41640-3.html#post469979
+http://www.cruisersforum.com/forums/f134/opencpn-version-2-1-0-beta-38480-61.html#post470243
+http://www.cruisersforum.com/forums/f134/opencpn-version-2-1-0-beta-38480-61.html#post470124 / http://www.cruisersforum.com/forums/f134/opencpn-version-2-1-0-beta-38480-62.html#post470766
+
+Code change to CSP(TOPMAR01) needed (ins't it CM93 error?)
+==========================================================
+http://www.cruisersforum.com/forums/f134/what-are-the-objects-which-display-41640-3.html#post469975
