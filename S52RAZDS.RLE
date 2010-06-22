@@ -35115,6 +35115,27 @@ SBTM   15@@@@AABBAA@@@@
 SBTM   15@@@@@@AA@@@@@@
 ****
 0001
+SYMB   10SY00025NIL
+SYMD   39BOYBAR01R000120001100024000150000000000
+SXPO   30barrel buoy, black full-chart
+SCRF   18ADEPMDBCHBLKCCHRED
+SBTM   25@@@@@@@@@@@@@@@@@@@@@@@@
+SBTM   25@@@@@@AAAAAAAAAAAAA@@@@@
+SBTM   25@@@@@AABBBBBBBBBBBA@@@@@
+SBTM   25@@@@ABBB@B@@@@@@@BBA@@@@
+SBTM   25@@@@AB@@@B@@@@@@@@BA@@@@
+SBTM   25@@@@AB@@@B@@@@@@@@BA@@@@
+SBTM   25@@@ABB@@@@B@@@@@@@BBA@@@
+SBTM   25@@@AB@@@@@B@@@@@@@@BA@@@
+SBTM   25@@@AB@@@@@B@@@@@@@@BA@@@
+SBTM   25@@@AB@@@@@B@B@@@@@@BA@@@
+SBTM   25@@AAB@@@@@BB@BB@@@@BA@@@
+SBTM   25@ABBBBBBBBB@@@BBBBBBBBA@
+SBTM   25@AAAAAAAAABB@BBAAAAAAAA@
+SBTM   25@@@@@@@@@@AABAA@@@@@@@@@
+SBTM   25@@@@@@@@@@@@A@@@@@@@@@@@
+****
+0001
 PATT   10SY00016NIL
 PATD   55NODATA04RSTGCON0000300326000200000000048000240000000000
 PXPO   22area of no chart data
