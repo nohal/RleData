@@ -35478,6 +35478,51 @@ SBTM    9@AABBAA@
 SBTM    9@@@AA@@@
 ****
 0001
+SYMB   10SY00040NIL
+SYMD   39BOYMOR01R000120001400024000180000000000
+SXPO   39mooring buoy, barrel shape, full-chart
+SCRF   12ADEPMDBCHBLK
+SBTM   25@@@@@@@@@@@AAA@@@@@@@@@@
+SBTM   25@@@@@@@@@@ABBBA@@@@@@@@@
+SBTM   25@@@@@@@@@ABAAABA@@@@@@@@
+SBTM   25@@@@@@@AAABAAABAA@@@@@@@
+SBTM   25@@@@@AABBBBBBBBBBAA@@@@@
+SBTM   25@@@@ABBBBAAAAAAAABBA@@@@
+SBTM   25@@@ABAAAABA@@@@@@AABA@@@
+SBTM   25@@@ABA@@ABA@@@@@@@ABA@@@
+SBTM   25@@@ABA@@ABA@@@@@@@ABA@@@
+SBTM   25@@ABAA@@ABBA@@@@@@@ABA@@
+SBTM   25@@ABA@@@@ABA@@@@@@@ABA@@
+SBTM   25@@ABA@@@@ABAA@@@@@@ABA@@
+SBTM   25@@ABA@@@@ABABAA@@@@ABA@@
+SBTM   25@AABAAAAAABBABBAAAAABAA@
+SBTM   25ABBBBBBBBBBAAABBBBBBBBBA
+SBTM   25@AAAAAAAAABBABBAAAAAAAA@
+SBTM   25@@@@@@@@@@AABAA@@@@@@@@@
+SBTM   25@@@@@@@@@@@@A@@@@@@@@@@@
+****
+0001
+SYMB   10SY00026NIL
+SYMD   39BOYMOR03R000090001100019000150000000000
+SXPO   36can mooring buoy,generic,full-chart
+SCRF   18ADEPMDBCHBLKCCHGRN
+SBTM   20@@@@@AAA@@ABBA@@@@@
+SBTM   20@@@@ABBBAAB@@BA@@@@
+SBTM   20@@@@AB@@BBBB@BA@@@@
+SBTM   20@@@@AB@@@@@@BBBAA@@
+SBTM   20@@@AB@@@@@@@@@@BBA@
+SBTM   20@@@AB@@@@@@@@@@@BA@
+SBTM   20@@@AB@@@@@@@@@@@BA@
+SBTM   20@@@AB@@@@@@@@@@@BA@
+SBTM   20@@AB@@@@@@@@@@@BA@@
+SBTM   20@@AB@@@@@B@@@@@BA@@
+SBTM   20@AAB@@@BBABB@@@BAA@
+SBTM   20ABBBBBBBAAABBBBBBBA
+SBTM   20@AAAAAABBABBAAAAAA@
+SBTM   20@@@@@@@AABAA@@@@@@@
+SBTM   20@@@@@@@@@A@@@@@@@@@
+****
+0001
 PATT   10SY00016NIL
 PATD   55NODATA04RSTGCON0000300326000200000000048000240000000000
 PXPO   22area of no chart data
