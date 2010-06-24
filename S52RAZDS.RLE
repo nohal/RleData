@@ -36129,6 +36129,38 @@ SBTM   18@@@CDDAADAADDC@@@
 SBTM   18@@@@CCDDDDDCC@@@@
 ****
 0001
+SYMB   10SY00342NIL
+SYMD   39TOWERS02R000060002200014000260000000000
+SXPO   41tower, water,  full-chart and simplified
+SCRF   12ADEPMDBLANDF
+SBTM   15@@@@@@@@@@@@@@
+SBTM   15@@BBBBBBBBBB@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@BBBBBBBBBB@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@BB@@B@@@
+SBTM   15@@@BBB@@BBB@@@
+SBTM   15@BBBB@@@@BBBB@
+SBTM   15@@@@BB@@BB@@@@
+SBTM   15@@@@@@BB@@@@@@
+SBTM   15@@@@@@@@@@@@@@
+****
+0001
 SYMB   10SY00001NIL
 SYMD   39PILBOP04R000080000800017000170000000000
 SXPO   21Pilot boarding place
@@ -36150,6 +36182,38 @@ SBTM   18@CD@@@@DDD@@@@DC@
 SBTM   18@@CD@@@DDD@@@DC@@
 SBTM   18@@@CDD@@D@@DDC@@@
 SBTM   18@@@@CCDDDDDCC@@@@
+****
+0001
+SYMB   10SY00342NIL
+SYMD   39TOWERS12R000060002200014000260000000000
+SXPO   60tower, water, black, conspicious, full-chart and simplified
+SCRF   12ADEPMDBCHBLK
+SBTM   15@@@@@@@@@@@@@@
+SBTM   15@@BBBBBBBBBB@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@B@@@@@@@@B@@
+SBTM   15@@BBBBBBBBBB@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@@B@@B@@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@@B@@@@B@@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@@@@@B@@@
+SBTM   15@@@B@@BB@@B@@@
+SBTM   15@@@BBB@@BBB@@@
+SBTM   15@BBBB@@@@BBBB@
+SBTM   15@@@@BB@@BB@@@@
+SBTM   15@@@@@@BB@@@@@@
+SBTM   15@@@@@@@@@@@@@@
 ****
 0001
 PATT   10SY00016NIL
