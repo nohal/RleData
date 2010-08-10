@@ -289,5 +289,12 @@
 18025,Speed range value 2,lc_sp2,F,F
 18026,Water displacement range value 1,lc_wd1,F,F
 18027,Water displacement value 2,lc_wd2,F,F
+30300,Ice Attribute Total Concentration,iceact,E,F
+30301,Ice Attribute Partial Concentration,iceapc,L,F
+30302,Ice Drift Direction,iceddr,E,F
+30303,Ice Drift Speed,icedsp,F,F
+30304,Floe Sizes,iceflz,L,F
+30305,Ice Stage of Development,icesod,L,F
+30306,Ice Drift Distance,icedis,I,F
 33066,Type of Ship,shptyp,E,F
 40000,Update message,updmsg,S,F
