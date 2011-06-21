@@ -1,3 +1,25 @@
+; ***************************************************************************
+; *                                                                         *
+; *   Copyright (C) 2000-2001  Sylvain Duclos <sylvain_duclos@yahoo.com>    *
+; *                                                                         *
+; *   Portions Copyright (C) 2010 by David S. Register <bdbcat@yahoo.com>   *
+; *   Portions Copyright (C) 2010 by Pavel Kalian" <pavel@kalian.cz>        *
+; *                                                                         *
+; *   This program is free software; you can redistribute it and/or modify  *
+; *   it under the terms of the GNU General Public License as published by  *
+; *   the Free Software Foundation; either version 2 of the License, or     *
+; *   (at your option) any later version.                                   *
+; *                                                                         *
+; *   This program is distributed in the hope that it will be useful,       *
+; *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+; *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+; *   GNU General Public License for more details.                          *
+; *                                                                         *
+; *   You should have received a copy of the GNU General Public License     *
+; *   along with this program; if not, write to the                         *
+; *   Free Software Foundation, Inc.,                                       *
+; *   59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
+; ***************************************************************************
 0001
 COLS   21CS00002NILDAY_BRIGHT
 CCIE   30NODTA0.28000.310045.00grey
@@ -1722,18 +1744,18 @@ DISC    9STANDARD
 LUCM    615010
 ****
 0001
-LUPT   40LU32234NILTSSLPTA00006SPLAIN_BOUNDARIES
-ATTC    8ORIENT 
-INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
-DISC    9STANDARD
-LUCM    625010
-****
-0001
 LUPT   40LU32235NILTSSLPTA00006SPLAIN_BOUNDARIES
 ATTC    8ORIENT 
 INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
 DISC    9STANDARD
 LUCM    615010
+****
+0001
+LUPT   40LU32234NILTSSLPTA00006SPLAIN_BOUNDARIES
+ATTC    8ORIENT 
+INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
+DISC    9STANDARD
+LUCM    625010
 ****
 0001
 LUPT   40LU32236NILTSSLPTA00006SPLAIN_BOUNDARIES
@@ -4109,18 +4131,18 @@ DISC    9STANDARD
 LUCM    615010
 ****
 0001
-LUPT   45LU32575NILTSSLPTA00006SSYMBOLIZED_BOUNDARIES
-ATTC    8ORIENT 
-INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
-DISC    9STANDARD
-LUCM    625010
-****
-0001
 LUPT   45LU32576NILTSSLPTA00006SSYMBOLIZED_BOUNDARIES
 ATTC    8ORIENT 
 INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
 DISC    9STANDARD
 LUCM    615010
+****
+0001
+LUPT   45LU32575NILTSSLPTA00006SSYMBOLIZED_BOUNDARIES
+ATTC    8ORIENT 
+INST   33SY(TSSLPT51,ORIENT);CS(RESTRN01)
+DISC    9STANDARD
+LUCM    625010
 ****
 0001
 LUPT   45LU32577NILTSSLPTA00006SSYMBOLIZED_BOUNDARIES
@@ -18580,7 +18602,7 @@ LUCM    617010
 0001
 LUPT   35LU30676NILboywtwP00000OPAPER_CHART
 ATTC   17catwwm19COLOUR6
-INST   53SY(boyspp50);TX(OBJNAM,2,1,2,'15110',-1,-1,CHBLK,21)
+INST   53SY(BOYCAN63);TX(OBJNAM,2,1,2,'15110',-1,-1,CHBLK,21)
 DISC   12DISPLAYBASE
 LUCM    617010
 ****
